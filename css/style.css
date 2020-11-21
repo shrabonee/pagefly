@@ -1,0 +1,250 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
+
+body h1,h2,h3 {
+font-family: 'Raleway', sans-serif;
+color:#515151;
+}
+
+
+p{
+	color:#747474;
+}
+
+
+
+.custom{
+	background-color: #5f67ff;
+	padding: 10px 30px;
+color: white;
+border-radius: 5px;
+text-decoration: none;
+font-weight: 600;
+font-size: 16px;
+display: inline-block;
+}
+.banner-content h1{
+	color: #5f67ff;
+	font-weight: 700;
+
+font-size: 70px;
+margin-bottom: 42px;
+
+}
+.banner-content h3{
+	color: #333333;
+	font-weight: 700;
+font-size: 35px;}
+
+.fa, .fab, .fad, .fal, .far, .fas {
+    
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    line-height: 40px !important;
+    display: inline-block !important;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #5f67ff;
+    color: #5f67ff;}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-size: 18px;
+    margin-right: 40px;
+    font-weight: 600;
+    color: #333 !important;
+}
+
+.navbar-brand img{
+	width: 150px;
+}
+
+.feature-content{
+	border-radius: 10px;
+    background: #ffffff;
+    box-shadow:  -7px 7px 14px #adadad, 
+                 7px -7px 14px #ffffff;
+    padding: 35px 10px 60px 10px;
+         }
+
+.feature-content h4{
+margin-bottom: 20px;
+font-size: 22px;
+font-weight: 700;
+color: #333333;
+margin-top: 25px;
+}
+.feature-content p {
+    font-size: 16px;
+    font-weight: 400;
+    width: 258px;
+    margin: auto;
+}
+
+
+
+
+
+
+.img-content {
+    background-color: red;
+    text-align: center;
+    padding: 46px 82px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 3px 4px 21px #adadad52 , 3px 8px 20px #c1bbbb;
+    display: block;
+    border-top: 7px solid #0000ff87;
+    box-shadow: 0 18px 24px 0 rgba(95,147,180,0.2);
+    background: #fff
+}
+.img-content img{
+    width: 118px;
+    object-fit: contain;
+  
+}
+.groave-content h3{
+    font-size: 19px;
+    color:#515151;
+    font-weight: 700;
+    margin-top: 30px; 
+}
+.groave-content p{
+font-size: 16px;
+color:#747474;
+font-weight: 300;
+}
+.header-content h1{
+    text-align: right;
+    font-size: 62px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color:#0000ff87; 
+
+}
+.content-area{}
+.content-area h1{
+font-size: 100px;
+    color:#5F67FF;
+    font-weight: 700;
+    color:#0000ff87; 
+     
+}
+.content-area h3{
+    font-size: 22px;
+    font-weight: 700;
+    
+    line-height: 37px;
+    padding: 10px 0px;
+    
+}
+.content-area p{
+    font-size: 16px;
+color:#747474;
+font-weight: 300;
+}
+.content h1{
+
+    font-size: 32px;
+    font-weight: 700;
+    margin: 45px 0px;
+    
+}
+ .customm{
+    background-color:red;
+    padding: 20px 35px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+}
+.footer-section{
+    background-color: #333333;
+    color:white;
+}
+.footer-bottom-section{
+    border-top: 1px solid #ffffff3d;
+
+    
+}
+.footer-area{
+    padding-top: 70px;
+    padding-bottom: 10px;
+
+}
+.footer-area h1{
+    
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.footer-area ul{
+    
+    padding-left: 0px;
+}
+.footer-area ul li{
+    list-style: none;
+    padding-left: 0px;
+}
+.footer-area ul li a{
+    text-decoration: none;
+
+    padding-bottom: 15px;
+    font-size: 16px;
+    font-weight: 400;
+        color: #ffffffe0;
+
+}.footer-cont h5{
+    font-size: 16px;
+    color: #fff;
+}
+.banner-area-sectuin {
+    margin: 40px 0;
+
+}
+.banner-area-sectuin h1 {
+    background-color: #5f67ff;
+    padding: 11px 114px 11px 301px;
+    font-size: 44px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.header-section {
+    border-bottom: 1px solid #a4989845;
+}
+.about-content{
+	padding: 20px 30px;
+}
+.middle-content h2{
+	color: #5f67ff;
+	 font-size: 35px;
+    font-weight: 700;
+}
+
+.middle-content h3{
+	color: #333333;
+	 font-size: 22px;
+    font-weight: 700;
+}
+.number-5 img{
+	width: 30px;
+
+}
+.footer-area h1{
+color: #fff;
+}
